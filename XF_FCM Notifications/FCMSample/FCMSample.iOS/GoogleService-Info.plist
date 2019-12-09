@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>BUNDLE_ID</key>
+	<string>com.fcmsample.fcmsample</string>
+	<key>PROJECT_ID</key>
+	<string>fir-fcmsample</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-fcmsample.appspot.com</string>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/441146891034</string>
+	<key>CLIENT_ID</key>
+	<string>509203610214-cdncdtt9t87hqjs2m188dp4amgasdasdh8sh16.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.50349203610214-cdncdtt9t87hqjs2m188dp4amgh8sh16</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCYJm44iiiFOuRqz7nV5Wg3MYaaemfPI4YDSEWaws</string>
+	<key>GCM_SENDER_ID</key>
+	<string>5092036102142323</string>
+</dict>
+</plist>

@@ -57,7 +57,7 @@ namespace FCMSample
             {
                 var httpContent = JsonConvert.SerializeObject(fcmBody);
                 var client = new HttpClient();
-                var authorization = string.Format("key={0}", "AAAAdo7memY:APA91bHNfseEKEri3uVv4maPKSN0H-cr99bv6Z1L7qmgVwTUbK4vCyqMTcB5uDDrFV_VD37FsvP-LWlJeIU3LYJtZ_7OgThTVAqVFwk4auBYVhipGfVhqaqMJVlPGkhYe-OZBdBfqFin");
+                var authorization = string.Format("key={0}", "YOUR_KEY");
                 client.DefaultRequestHeaders.TryAddWithoutValidation("Authorization", authorization);
                 var stringContent = new StringContent(httpContent);
                 stringContent.Headers.ContentType = new System.Net.Http.Headers.MediaTypeHeaderValue("application/json");
